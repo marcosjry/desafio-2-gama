@@ -1,0 +1,60 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://i.imgur.com/1Ev3YNZ.png",
+            "name": "Grand Theft Auto V",
+            "description": "Descrição",
+            "price": 38.97
+        },
+        {
+            "id": 2,
+            "photo": "https://i.imgur.com/k5zNlZ8.png",
+            "name": "Horizon Zero Dawn",
+            "description": "Descrição",
+            "price": 53.97
+        },
+        {
+            "id": 3,
+            "photo": "https://i.imgur.com/z2I3RA7.png",
+            "name": "The Last of Us II",
+            "description": "Descrição",
+            "price": 29.97
+        },
+        {
+            "id": 4,
+            "photo": "https://i.imgur.com/Ryvm9C3.png",
+            "name": "Assassins Creed Odyssey",
+            "description": "Descrição",
+            "price": 29.97
+        },
+        {
+            "id": 5,
+            "photo": "https://i.imgur.com/OHADMdL.png",
+            "name": "The Witcher - Wild Hunt",
+            "description": "Descrição",
+            "price": 29.97
+        },
+        {
+            "id": 6,
+            "photo": "https://i.imgur.com/ZSUPZIj.png",
+            "name": "Fall Guys",
+            "description": "Descrição",
+            "price": 29.97
+        },
+        {
+            "id": 7,
+            "photo": "https://i.imgur.com/elEQnyE.png",
+            "name": "God Of War",
+            "description": "Descrição",
+            "price": 29.97
+        },
+        {
+            "id": 8,
+            "photo": "https://i.imgur.com/ebhhB97.png",
+            "name": "Far Cry 6",
+            "description": "Descrição",
+            "price": 29.97
+        }
+    ]
+}

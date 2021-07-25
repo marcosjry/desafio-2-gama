@@ -1,0 +1,30 @@
+.Conteudo {
+
+    font-family: monospace;
+    width: 100%;
+    color: white;
+    font-family: monospace;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    text-shadow: rgba(0, 255, 191, 0.3) 2px 1px;
+    
+}
+
+
+
+.Conteudo h1 {
+    font-size: 50px;
+    padding: 50px 0px;
+
+}
+
+.Conteudo h2 {
+    font-size: 35px;
+    padding: 25px 0px;
+}
+.Conteudo h3 {
+    padding: 50px 0px;
+    font-size: 25px;
+}
